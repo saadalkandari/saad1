@@ -9,5 +9,5 @@ products=[
         Price: "12 KD",
         image:" https://incels.wiki/images/b/bb/Bluepill.png",
     },
-]
+];
 export default products;
