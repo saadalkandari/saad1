@@ -1,12 +1,12 @@
-products=[
+let products=[
     {
         name:"Red Pill",
-        Price:"10 KD" ,
-        image:" https://www.aljazeera.com/wp-content/uploads/2020/09/12c1dfc4aa49499a8cfd60ce55ce60de_18.jpeg?fit=1000%2C562",
+        price:"10 KD" ,
+        image:"https://www.d2o.com/wp-content/uploads/2019/05/red-pill-2.jpg",
     },
     {
         name:"Blue Pill",
-        Price: "12 KD",
+        price: "12 KD",
         image:" https://incels.wiki/images/b/bb/Bluepill.png",
     },
 ];
